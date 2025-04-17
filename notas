@@ -1,0 +1,13 @@
+comandos para crear proyecto nestjs
+
+1. npm i -g @nestjs/cli
+2. nest new project-name
+3. cd project-name
+4. npm run start:dev
+
+/depnde de cual administrador de paquetes seleccionamos al momento 
+de agregar nest new nombredelproyecto./
+
+npm install --save @nestjs/typeorm typeorm mysql2
+o
+pnpm install @nestjs/typeorm typeorm mysql2
